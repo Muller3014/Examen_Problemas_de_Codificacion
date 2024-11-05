@@ -45,7 +45,8 @@ void mostrarTipoNumero() {
     }
 }
 ```
-[tipo_numero](Octubre/Promocion de tienda/tipo_numero)
+Revisa el archivo [`tipo_numero.cpp`] para ver la implementación.
+
 
 #### Fuente GitHub Copilot
 
@@ -97,7 +98,11 @@ void mostrarDiaSemana() {
     }
 }
 ```
+Revisa el archivo [`dia_semana.cpp`] para ver la implementación.
+
+
 #### Fuente GitHub Copilot
+
 
 # Ejercicio 3: Cálculo de Promedio de Calificaciones
 Un estudiante ha completado un curso de programación avanzada en C++. Durante el curso, ha realizado 8 ejercicios prácticos, y cada ejercicio se califica con una nota entre 0 y 10. Escribe un programa que solicite al usuario introducir las calificaciones obtenidas por el estudiante en cada uno de los 8 ejercicios. El programa deberá calcular y mostrar el promedio de las calificaciones. 
@@ -118,7 +123,11 @@ void mostrarPromedioCalificaciones() {
     cout << "El promedio de las calificaciones es: " << suma / 8.0 << endl;
 }
 ```
+Revisa el archivo [`promedio_calificaciones.cpp`] para ver la implementación.
+
+
 #### Fuente de GitHub Copilot
+
 
 # Ejercicio 4: Promoción de "3 por 2" en Tienda
 En una tienda se está ofreciendo una promoción en la cual el cliente puede llevarse tres artículos y pagar solo por los dos artículos más caros. Escribe un programa en C++ que solicite al usuario ingresar los precios de tres artículos y, como resultado, muestre el total que el cliente debe pagar bajo esta promoción.
@@ -150,4 +159,7 @@ void mostrarPromocionTienda() {
     cout << "El total a pagar bajo la promocion es: " << totalPagar << endl;
 }
 ```
+Revisa el archivo [`promocion_tienda.cpp`] para ver la implementación.
+
+
 #### Fuente de GitHub Copilot
