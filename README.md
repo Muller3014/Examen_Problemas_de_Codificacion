@@ -45,7 +45,7 @@ void mostrarTipoNumero() {
     }
 }
 ```
-[tipo_numero](ruta/al/archivo)
+[tipo_numero](Octubre/Promocion de tienda/tipo_numero)
 
 #### Fuente GitHub Copilot
 
