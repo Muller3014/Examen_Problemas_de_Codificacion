@@ -1,0 +1,12 @@
+# ninja log v6
+18	1146	7525033288552961	CMakeFiles/Octubre.dir/main.cpp.obj	1a228fa32a05a766
+7	1131	7525032740429180	CMakeFiles/Octubre.dir/Tipo_de_numero/tipo_numero.cpp.obj	8ff543f8005437de
+1147	1394	7525033299854792	Octubre.exe	e0ba3a3ee6f8fe2d
+36	1197	7525029807075871	CMakeFiles/Octubre.dir/Dia_de_la_semana/dia_semana.cpp.obj	477ebaddf4142701
+31	1145	7525032740664292	CMakeFiles/Octubre.dir/Cálculo_de_promedio_de_calificaciones/promedio_calificaciones.cpp.obj	cf2896742b179558
+12	987	7525036690708493	CMakeFiles/Octubre.dir/main.cpp.obj	1a228fa32a05a766
+39	1000	7525036690986129	CMakeFiles/Octubre.dir/Promocion_de_tienda/promocion_tienda.cpp.obj	a01ea76b781c90e6
+1003	1331	7525036700616563	Octubre.exe	8a6b534aa8505b10
+18	1261	7525037749800399	CMakeFiles/Octubre.dir/main.cpp.obj	1a228fa32a05a766
+51	1285	7525037750135895	CMakeFiles/Octubre.dir/Promocion_de_tienda/promocion_tienda.cpp.obj	a01ea76b781c90e6
+1285	1601	7525037762465823	Octubre.exe	8a6b534aa8505b10

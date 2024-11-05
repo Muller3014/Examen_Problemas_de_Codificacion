@@ -1,0 +1,3 @@
+C:/Users/gonza/Desktop/UNI/PROGRAMACION/EXAMENES/Octubre/cmake-build-debug/CMakeFiles/Octubre.dir
+C:/Users/gonza/Desktop/UNI/PROGRAMACION/EXAMENES/Octubre/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gonza/Desktop/UNI/PROGRAMACION/EXAMENES/Octubre/cmake-build-debug/CMakeFiles/rebuild_cache.dir
