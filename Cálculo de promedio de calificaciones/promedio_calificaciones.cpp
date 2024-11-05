@@ -11,8 +11,8 @@
 using namespace std;
 
 void mostrarPromedioCalificaciones() {
-    int calificacion;
-    int suma = 0;
+    float calificacion;
+    float suma = 0;
     cout << "\n============= PROMEDIO DE CALIFICACIONES =============" << endl;
     for (int i = 1; i <= 8; i++) {
         cout << "Ingrese la calificacion del ejercicio " << i << ": ";

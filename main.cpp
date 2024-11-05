@@ -1,8 +1,8 @@
-#include <iostream>
+/*Parte 2: Problemas de Codificación (70 puntos en total)*/
 
-#include "Cálculo de promedio de calificaciones/promedio_calificaciones.h"
 #include "Tipo de numero/tipo_numero.h"
 #include "Dia de la semana/dia_semana.h"
+#include "Cálculo de promedio de calificaciones/promedio_calificaciones.h"
 #include "Promocion de tienda/promocion_tienda.h"
 
 int main() {
