@@ -5,7 +5,7 @@
 #include "Cálculo de promedio de calificaciones/promedio_calificaciones.h"
 #include "Promocion de tienda/promocion_tienda.h"
 
-int main() {
+int main() { // Llamado a las funciones de los programas
 
     mostrarTipoNumero();
     mostrarDiaSemana();

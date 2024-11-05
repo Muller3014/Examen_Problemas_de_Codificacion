@@ -4,6 +4,7 @@
 /*Crea un programa en C++ que solicite al usuario ingresar un número del 1 al 7.
  *El programa deberá imprimir el nombre del día de la semana correspondiente al número
  *ingresado (por ejemplo, 1 para lunes, 2 para martes, ..., 7 para domingo). */
+
 #include <iostream>
 #include "dia_semana.h"
 using namespace std;
@@ -21,7 +22,8 @@ void mostrarDiaSemana() {
 
     cout << "Ingrese un numero del 1 al 7:";
     cin >> numero;
-    switch (numero) {
+
+    switch (numero) { // Switch para imprimir el dia de la semana dependiendo del numero ingresado
         case 1:
             cout << "Lunes" << endl;
             break;
